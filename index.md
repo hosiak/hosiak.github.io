@@ -1,3 +1,4 @@
+    <DOCTYPE! html>
     <style>
         body { margin: 0; padding: 0; background: rgb(207, 207, 207); }
     </style>
@@ -18,3 +19,4 @@
     <img src="unity-ss.png">
     </div>
     </body>
+</html>
