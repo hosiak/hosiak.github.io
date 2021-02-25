@@ -1,4 +1,5 @@
     <DOCTYPE! html>
+    <html>
     <style>
         body { margin: 0; padding: 0; background: rgb(207, 207, 207); }
     </style>
